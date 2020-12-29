@@ -1,8 +1,6 @@
-fig:nice-fig
-tab:nice-tab
-prerequisites
-intro
-literature
+introduction
+vocab
+gram
 methods
 applications
 example-one
